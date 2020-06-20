@@ -2,7 +2,7 @@
 
 ## Description
 
-There are 2270 Sinhala songs with 10 attributes. `sinhala_songs_corpus.json` consists of a json array of json objects.
+There are 2270 Sinhala songs each with 10 attributes. `sinhala_songs_corpus.json` consists of a json array of json objects.
 
 ## Attributes
 
